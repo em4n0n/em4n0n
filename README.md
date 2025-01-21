@@ -10,7 +10,7 @@ I primarily work with Python and related technologies, focusing on backend devel
 - 📖 Exploring new frameworks, APIs, and database systems.
 
 ## 🎯 Recent Projects
-- 🍋 [Little Lemon](https://github.com/em4n0n/little-lemon-api-main) – A RESTful API for a restaurant, supporting role-based access control, order management, and customer interactions.
+- 🍋 [Little Lemon](https://github.com/em4n0n/little-lemon-api-project) – A RESTful API for a restaurant, supporting role-based access control, order management, and customer interactions.
 - ⚔️ [Battle Script](https://github.com/em4n0n/Battle) - A Python-based turn-based battle system.
 - 🔍 [WebScrapery](https://github.com/em4n0n/webscrapery) - A web scraping tool using BeautifulSoup and requests.
 
