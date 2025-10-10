@@ -1,4 +1,4 @@
-# Hello, I'm David 🌟
+# Hello, I'm David 
 
 I'm a full-stack developer passionate about creating meaningful web applications, solving challenges, and learning new technologies.
 
